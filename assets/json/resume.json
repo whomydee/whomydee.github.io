@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Shad Humydee",
+    "label": "Senior Data Scientist",
+    "image": "",
+    "email": "showmmos@gmail.com",
+    "phone": "+8801675760315",
+    "summary": "ML-focused Software Engineering Leader with 7+ years of experience specializing in NLP, Agentic AI, and Recommender Systems. Delivered production ML systems serving 10M+ users across enterprise and government organizations.",
+    "location": {
+      "city": "Remote",
+      "countryCode": "UK",
+      "region": "UK Team"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shad-humydee",
+        "url": "https://linkedin.com/in/shad-humydee"
+      },
+      {
+        "network": "GitHub",
+        "username": "whomydee",
+        "url": "https://github.com/whomydee"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Optimizely",
+      "position": "Senior Data Scientist",
+      "location": "Remote, UK Team",
+      "url": "https://www.optimizely.com/",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Architecting production ML systems for AI evaluation, agent memory, recommendation engines, and LLM-powered platforms.",
+      "highlights": [
+        "Built OPAL Evals — AI evaluation framework using LLM-as-a-Judge (Gemini, Claude) across 5 quality dimensions, reducing agent debugging from 2-3 days to under 4 hours",
+        "Architected Synapse — hybrid AI agent memory system processing 10K+ agent interactions/day with FastAPI + Python 3.13",
+        "Engineered CMAB recommendation engine with XGBoost handling 5K requests/second, securing major US financial services client",
+        "Launched AI-Segments — RAG-powered segmentation platform reducing campaign prep time by 70%",
+        "Built AI-Backend — multi-tenant API gateway across Azure OpenAI, Vertex AI, Replicate with GKE deployment (10 replica pods)",
+        "Led cross-functional teams of 3-5 engineers, increasing team efficiency by 40%"
+      ]
+    },
+    {
+      "name": "Infolytx Inc.",
+      "position": "Software Engineer II (AI/ML)",
+      "location": "Hybrid, Dhaka",
+      "url": "https://infolytx.ai/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-11-01",
+      "summary": "Led architecture and delivery of healthcare NLP platforms.",
+      "highlights": [
+        "Led Avicenna Healthcare NLP platform using spaCy, SciSpacy, AWS Comprehend Medical — processing 500K+ patient records",
+        "Conducted R&D integrating NLP/ML with AWS for healthcare applications",
+        "Mentored 2-3 junior engineers, scaling team capability by 30%"
+      ]
+    },
+    {
+      "name": "Infolytx Inc.",
+      "position": "Software Engineer I (AI/ML)",
+      "location": "Hybrid, Dhaka",
+      "url": "https://infolytx.ai/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-01",
+      "summary": "Shipped healthcare ML product from demo to MVP.",
+      "highlights": [
+        "Shipped healthcare ML product using scikit-learn, TensorFlow — reducing development-to-deployment cycle by 60%",
+        "Built scalable ML/NLP pipelines processing 100K+ EMR records/day"
+      ]
+    },
+    {
+      "name": "Infolytx Inc.",
+      "position": "Junior Software Engineer (AI/ML)",
+      "location": "Hybrid, Dhaka",
+      "url": "https://infolytx.ai/",
+      "startDate": "2021-07-01",
+      "endDate": "2021-12-01",
+      "summary": "Built NLP solutions on EMR data for clinical insight extraction.",
+      "highlights": [
+        "Built NLP solutions using NLTK, spaCy, NegSpacy — improving clinical insight extraction accuracy by 25%",
+        "Ensured HIPAA compliance through security best practices and production-ready ML workflow documentation"
+      ]
+    },
+    {
+      "name": "Apurba Technologies Ltd.",
+      "position": "Machine Learning Engineer",
+      "location": "Remote, Dhaka",
+      "url": "https://apurbatech.com/",
+      "startDate": "2021-03-01",
+      "endDate": "2021-06-01",
+      "summary": "Developed OCR pipelines and predictive ML models.",
+      "highlights": [
+        "Developed Bangla OCR preprocessing pipelines using OpenCV, Pillow, Cycle-GAN — improving accuracy by 29%",
+        "Built predictive ML models processing 10K+ daily data points"
+      ]
+    },
+    {
+      "name": "Integrated Software and Technologies Ltd.",
+      "position": "Senior Business Analyst & Business Analyst",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2018-08-01",
+      "endDate": "2021-02-01",
+      "summary": "Secured high-ticket contracts and led technical documentation for government and enterprise systems.",
+      "highlights": [
+        "Secured $2.5M project win — clients include IOM, UNDP, UNODC, WFP and government bodies",
+        "Led technical documentation reducing onboarding time by 35% and project delays by 20%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "United International University",
+      "location": "Bangladesh",
+      "area": "Computer Science and Engineering",
+      "studyType": "MSc",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "score": "4.00",
+      "courses": ["Machine Learning", "Deep Learning", "Natural Language Processing", "Data Mining", "Computational Intelligence"]
+    },
+    {
+      "institution": "Military Institute of Science and Technology",
+      "location": "Bangladesh",
+      "area": "Naval Architecture and Marine Engineering",
+      "studyType": "BSc",
+      "startDate": "2014-01-01",
+      "endDate": "2018-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Judge, Bangla LLM Mathematical Reasoning Challenge",
+      "date": "2024-11-01",
+      "awarder": "BUET CSE",
+      "summary": "Evaluated 15+ teams building Bangla language models for mathematical reasoning."
+    },
+    {
+      "title": "World Finalist, European Rover Challenge 2016",
+      "date": "2016-09-01",
+      "awarder": "European Space Foundation, Poland",
+      "summary": "Ranked 22nd globally as technical member of Team Mongol Barota."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Diagnosing Application Bugs with Datadog APM",
+      "date": "2025-10-01",
+      "issuer": "Datadog",
+      "icon": "fa-solid fa-bug"
+    },
+    {
+      "name": "Veracode Security Labs Champion Level 1",
+      "date": "2025-09-01",
+      "issuer": "Veracode",
+      "icon": "fa-solid fa-shield-halved"
+    },
+    {
+      "name": "Introduction to PCI DSS for Developers",
+      "date": "2025-03-01",
+      "issuer": "Veracode",
+      "icon": "fa-solid fa-lock"
+    },
+    {
+      "name": "Software Security Awareness - OWASP Top 10 2021",
+      "date": "2025-03-01",
+      "issuer": "Veracode",
+      "icon": "fa-solid fa-shield-halved"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agentic Workflows & Orchestration",
+      "level": "",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["LangChain", "RAG Architectures", "LLM-as-Judge", "Prompt Engineering", "Tool Calling", "Multi-step Reasoning"]
+    },
+    {
+      "name": "LLM APIs",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["OpenAI (GPT-4o, Embeddings, DALL-E)", "Google Gemini", "Anthropic (via Vertex AI)"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["XGBoost", "TensorFlow/Keras", "Scikit-Learn", "Transformers (BERT, T5)", "CMAB", "Recommender Systems", "SHAP/LIME"]
+    },
+    {
+      "name": "Data Science & NLP",
+      "level": "",
+      "icon": "fa-solid fa-database",
+      "keywords": ["NumPy", "Pandas", "spaCy", "SciSpacy", "NLTK", "Matplotlib", "Seaborn"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "level": "",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["GCP (Vertex AI, GKE, BigQuery, Cloud Run, Pub/Sub)", "AWS (DynamoDB, S3, EC2)", "Docker", "Terraform", "Kubernetes"]
+    },
+    {
+      "name": "Languages & Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python (FastAPI)", "TypeScript", "Java"]
+    },
+    {
+      "name": "MLOps & CI/CD",
+      "level": "",
+      "icon": "fa-solid fa-gears",
+      "keywords": ["MLflow", "Weights & Biases", "GitHub Actions", "Bitbucket Pipelines", "Jenkins", "Datadog"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native/Bi-Lingual Proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native/Bi-Lingual Proficiency",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Agentic AI", "NLP", "Recommender Systems", "LLM Evaluation", "Healthcare ML"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "OPAL Evals",
+      "summary": "Production-grade AI evaluation framework scoring conversational agent outputs using multi-model LLM-as-a-Judge across 5 quality dimensions.",
+      "highlights": ["Reduced agent debugging from 2-3 days to under 4 hours", "5x faster prompt iteration cycles"],
+      "startDate": "2024-11-01",
+      "endDate": ""
+    },
+    {
+      "name": "Synapse",
+      "summary": "Hybrid AI agent memory system for Optimizely's agent orchestration platform, enabling personalized AI experiences through long-term memory.",
+      "highlights": ["Processing 10K+ agent interactions/day", "FastAPI + Python 3.13"],
+      "startDate": "2024-11-01",
+      "endDate": ""
+    },
+    {
+      "name": "CMAB Recommendation Engine",
+      "summary": "Contextual multi-armed bandit recommendation engine with XGBoost for real-time ML predictions.",
+      "highlights": ["5K requests/second", "15% regret reduction", "8% conversion boost"],
+      "startDate": "2024-04-01",
+      "endDate": "2024-08-01"
+    },
+    {
+      "name": "AI-Segments",
+      "summary": "LLM-driven segmentation platform leveraging RAG architecture and transformers.",
+      "highlights": ["70% reduction in campaign prep time", "5M+ user segments/month"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-01"
+    },
+    {
+      "name": "AI-Backend (Eleanor)",
+      "summary": "Production-grade multi-tenant API gateway serving Optimizely's AI platform across Azure OpenAI, Vertex AI, and Replicate.",
+      "highlights": ["10 replica pods on GKE", "Auto-scaling", "Datadog APM observability"],
+      "startDate": "2023-12-01",
+      "endDate": "2024-03-01"
+    },
+    {
+      "name": "Avicenna Healthcare NLP",
+      "summary": "Comprehensive NLP platform for EMR data analysis using spaCy and AWS Comprehend Medical.",
+      "highlights": ["500K+ patient records processed", "50% reduction in physician review time"],
+      "startDate": "2021-07-01",
+      "endDate": "2023-11-01"
+    }
+  ]
+}

@@ -32,13 +32,13 @@ git push -u origin main
 
 At your domain registrar, add these DNS records for `shad.me`:
 
-| Type  | Name  | Value                  |
-|-------|-------|------------------------|
-| A     | @     | 185.199.108.153        |
-| A     | @     | 185.199.109.153        |
-| A     | @     | 185.199.110.153        |
-| A     | @     | 185.199.111.153        |
-| CNAME | www   | whomydee.github.io     |
+| Type  | Name | Value              |
+| ----- | ---- | ------------------ |
+| A     | @    | 185.199.108.153    |
+| A     | @    | 185.199.109.153    |
+| A     | @    | 185.199.110.153    |
+| A     | @    | 185.199.111.153    |
+| CNAME | www  | whomydee.github.io |
 
 ## 6. Set Custom Domain on GitHub
 

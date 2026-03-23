@@ -21,6 +21,7 @@ AI-Segments is an LLM-driven segmentation platform leveraging **RAG architecture
 ## Architecture
 
 Two-module architecture:
+
 1. **Segment Generator Service** (FastAPI) — real-time, on-demand segment generation
 2. **Kubernetes Cron Job** — daily pre-computed segment refresh
 
